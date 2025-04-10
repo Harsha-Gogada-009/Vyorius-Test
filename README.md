@@ -88,12 +88,8 @@ This project uses OWL-ViT for zero-shot object detection on custom object catego
 
 ## 📁 I. Clone or Download the Project
 
-You can either clone the repository:
+You can either clone the repository
 
-```bash
-git clone https://github.com/yourusername/owlvit-custom-detection.git
-cd owlvit-custom-detection
-```
 Or simply download the notebook file OWLViT_Custom_Detection.ipynb and open it in your preferred Jupyter environment (Jupyter Notebook, JupyterLab, or Google Colab).
 
 
@@ -101,7 +97,7 @@ Or simply download the notebook file OWLViT_Custom_Detection.ipynb and open it i
 Launch Jupyter and run the notebook:
 
 ```bash
-jupyter notebook OWLViT_Custom_Detection.ipynb
+jupyter notebook model.ipynb
 ```
 🖥️ The webcam will open automatically when you run the notebook.
 🔁 Press e to edit detection labels live.
